@@ -1,5 +1,3 @@
-# CREDIT-CARD---SEGMENTATION-CASE-STUDYAnalytixLabs, Website: www.analytixlabs.co.in Email: info@analytixlabs.co.in phone: +91-88021-73069
-
 CASE STUDY – CREDIT CARD
 SEGMENTATION 
 
